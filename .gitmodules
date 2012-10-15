@@ -1,0 +1,27 @@
+[submodule "assets/bootstrap"]
+	path = assets/bootstrap
+	url = git://github.com/twitter/bootstrap.git
+[submodule "assets/jquery"]
+	path = assets/jquery
+	url = git://github.com/jquery/jquery.git
+[submodule "assets/jquery-ui"]
+	path = assets/jquery-ui
+	url = git://github.com/jquery/jquery-ui.git
+[submodule "assets/jquery-file-upload"]
+	path = assets/jquery-file-upload
+	url = git://github.com/blueimp/jQuery-File-Upload.git
+[submodule "assets/jquery-flot"]
+	path = assets/jquery-flot
+	url = git://github.com/flot/flot.git
+[submodule "assets/jquery-chosen"]
+	path = assets/jquery-chosen
+	url = git://github.com/harvesthq/chosen.git
+[submodule "assets/jquery-gmaps"]
+	path = assets/jquery-gmaps
+	url = git://github.com/HPNeo/gmaps.git
+[submodule "assets/jquery-datatables"]
+	path = assets/jquery-datatables
+	url = git://github.com/DataTables/DataTables.git
+[submodule "assets/bootstrap-toggle-buttons"]
+	path = assets/bootstrap-toggle-buttons
+	url = git://github.com/nostalgiaz/bootstrap-toggle-buttons.git
