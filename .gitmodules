@@ -25,3 +25,6 @@
 [submodule "assets/bootstrap-toggle-buttons"]
 	path = assets/bootstrap-toggle-buttons
 	url = git://github.com/nostalgiaz/bootstrap-toggle-buttons.git
+[submodule "assets/jquery-fullcalendar"]
+	path = assets/jquery-fullcalendar
+	url = git://github.com/arshaw/fullcalendar.git
