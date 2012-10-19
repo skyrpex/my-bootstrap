@@ -28,3 +28,6 @@
 [submodule "assets/jquery-fullcalendar"]
 	path = assets/jquery-fullcalendar
 	url = git://github.com/arshaw/fullcalendar.git
+[submodule "assets/jquery-select2"]
+	path = assets/jquery-select2
+	url = https://github.com/ivaynberg/select2
